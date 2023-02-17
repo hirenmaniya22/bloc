@@ -5,5 +5,7 @@ import 'demo/demo_view.dart';
 void main() {
   runApp(MaterialApp(
     home: DemoPage(),
+    appbar( Appbar)
+    title : Text("keyur'),
   ));
 }
